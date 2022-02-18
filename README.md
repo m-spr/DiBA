@@ -1,2 +1,4 @@
 # DiBA
-First version 
+LSTM hardware
+
+Cancel changes
